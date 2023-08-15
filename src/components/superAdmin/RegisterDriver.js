@@ -11,8 +11,8 @@ function RegisterDriver() {
                 <div className='col-md-2'>
                     <Sidebar/>
                 </div>
-                <div className='col-md-10'>
-                    <div className="container-fluid">
+                <div className='col-md-10 p-3'>
+                    <div className="container-fluid box">
                         <div className="row"> 
                             <form method="post" >
                             <div className='form-group my-2 p-1'>

@@ -6,7 +6,40 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.box{
+  border:1px solid green;
+  border-radius:5px;
+  width:80%;
+  box-shadow:3px 1px 4px 10px whitesmoke;
+  margin:60px 40px 30px 50px;
+}
+.footer{
+  height:50px;
+  background-color: rgb(11,105,191);
+  color:white;
+  font-size:15px;
+  padding:10px;
+}
+.full-height{
+  height:82vh;
+}
+.menu-link{
+  
+}
+.sidebar{
+  border:1px solid red;
+  height:78vh;
+  width:300px !important;
+  margin-top:5px;
+}
+.header{
+  height:80px;
+  background-color: rgb(11, 105, 191);
+  margin-bottom:0px;
+  color:white;
+  font-size: 30px;
+  padding:20px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
