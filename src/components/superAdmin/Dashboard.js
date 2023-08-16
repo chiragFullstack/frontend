@@ -18,16 +18,13 @@ function Dashboard() {
                       <div className='col-md-5 m-2' style={{background:'red'}}>
                           Drivers 
                       </div>
-                      <div className='col-md-1' >
-                          
-                      </div>
-                      <div className='col-md-5  m-2' style={{background:'green'}}>
+                      <div className='col-md-5 m-2' style={{background:'green'}}>
                           Vehicles
                       </div>
                       <div className='col-md-5 m-2' style={{background:'yellow'}}>
                           DVIR Reports
                       </div>
-                      <div className='col-md-1' >
+                      <div className='col-md-1'>
                          
                       </div>
                       <div className='col-md-5  m-2' style={{background:'blue'}}>
